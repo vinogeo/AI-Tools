@@ -37,6 +37,7 @@
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Zentask.ai](https://zentask.ai/) - Enhancing Engineering Productivity with Zentask.ai: A Revolution in AI-Powered Prompt Marketplace [Source](https://medium.com/insperia/enhancing-engineering-productivity-with-zentask-ai-a-revolution-in-ai-powered-prompt-marketplace-4c5d7e2d7fa).
 
 ### Search engines
 
@@ -151,6 +152,7 @@
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+- [Ideogram](https://ideogram.ai/) - Your Creative Companion for Idea Generation and Visualization.
 
 ### Services
 
