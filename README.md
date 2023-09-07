@@ -4,7 +4,7 @@
 > Feel free to contribute
 
 ## Contents
-
+- [👩‍🏫 Our Favourites](#favs)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
 - [🖼️ Generative AI Images ](#image)
@@ -13,7 +13,9 @@
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
 
-
+## Our Favourites
+- [ALT4](https://alt4.in/) - Unlock the power of AI and skyrocket your productivity with alt4.in – where innovation meets efficiency in one seamless platform.
+  
 ## Text
 
 ### Models
